@@ -24,7 +24,7 @@
 	padding: 45px;
 	color: white;
 	text-shadow: 3px 3px 5px black;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	white-space: nowrap;
 	text-align: center;
 }
@@ -43,6 +43,13 @@
 	font-weight: 300;
 }
 
+#logodiv {
+    text-align: center;
+}
+#logodiv img {
+    max-width: 75%;
+    margin-bottom: 10px;
+}
 
 .nav li a {
 	color: #003399;
